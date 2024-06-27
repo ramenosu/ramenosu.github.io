@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ramenosu.github.io/sitemap
+Sitemap: https://ramenosu.github.io/app/sitemap
+Sitemap: https://ramenosu.github.io/assets/sitemap
+Sitemap: https://ramenosu.github.io/css/sitemap
+Sitemap: https://ramenosu.github.io/includes/sitemap
+Sitemap: https://ramenosu.github.io/item/sitemap
+Sitemap: https://ramenosu.github.io/src/sitemap
